@@ -29,21 +29,21 @@ main {
 
 .step-img1 {
   height: 150px;
-  background-image: url(9.img/flow01.png);
+  background-image: url(kadai1.img/flow01.png);
   background-position: bottom;
   background-size: cover;
 }
 
 .step-img2 {
   height: 150px;
-  background-image: url(9.img/flow02.png);
+  background-image: url(kadai1.img/flow02.png);
   background-position: bottom;
   background-size: cover;
 }
 
 .step-img3 {
   height: 150px;
-  background-image: url(9.img/flow03.png);
+  background-image: url(kadai1.img/flow03.png);
   background-position: bottom;
   background-size: cover;
 }
@@ -65,3 +65,4 @@ footer {
   background-color: #aaa;
 }
 
+@media screen and (max-width: 425px) {
